@@ -1,0 +1,29 @@
+.sklSec {
+  background: #ffffff;
+  max-width: 360px;
+  margin: 76px auto;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  border-left: 6px solid #495057;
+}
+
+.sklTit {
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+  color: #2e2e2e;
+}
+
+.sklGp {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sklBlk {
+  color: #495057;
+  font-weight: 600;
+}
